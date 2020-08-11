@@ -1,4 +1,5 @@
-![java-juice](javajuice.png)
+<span style="display:block;text-align:center">![java-juice](javajuice.png)</span>
+
 
 # 介绍
 
@@ -85,9 +86,9 @@
 
 # 感谢
 
-- 小滴课堂（https://xdclass.net/）
-- 力扣加加（https://leetcode-solution.cn/）
-- Lucifer（https://github.com/azl397985856/leetcode）
+- 小滴课堂: https://xdclass.net/
+- 力扣加加: https://leetcode-solution.cn
+- Lucifer: https://github.com/azl397985856/leetcode
 
 
 
