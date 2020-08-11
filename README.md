@@ -1,4 +1,5 @@
-# Java小饭桌
+![java-juice](javajuice.png)
+
 > --  记录java相关的琐碎知识。附有leetcode经典题目代码解析，和一些经典算法的代码实现。
 
 
@@ -409,5 +410,5 @@ hash碰撞是指不同key计算得到的Hash值相同，需要放到数组的同
 
 >  **Copyright © 2020 Java Diner. All Rights Reserved. Kyle studio produced. **
 >
-> **由KyleStudio工作室维护管理 合作邮箱：singledoggy008@gmail.com**
+> **由KyleStudio工作室维护管理 合作邮箱：kylestudio@hotmail.com**
 
