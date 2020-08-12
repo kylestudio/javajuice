@@ -1,4 +1,4 @@
-<span style="display:block;text-align:center">![java-juice](javajuice.png)</span>
+![java-juice](javajuice.png)
 
 
 # 介绍
@@ -49,7 +49,15 @@
 
 ## 第三章 并发编程技术篇
 
-1. **[并发编程知识点还记得多少？](./docs/3.1Concurrency1.md)**
+1. **[线程的定义和创建](./docs/3.1ThreadConcept.md)**
+   - 你能区分线程、进程、协程么？
+   - 并发和并行的区别呢？
+   - Java中实现多线程的方法？
+2. **[线程状态转换](./docs/3.2ThreadStatus.md)**
+   - 线程都有哪几种状态？
+   - 常见的影响线程状态的API都有那些？
+   - 能画出转换流程图么？
+3. 
 
 **未完待续。。**
 
@@ -92,7 +100,7 @@
 
 
 
->  Copyright © 2020 Java Juice. All Rights Reserved. Kyle studio produced.
+>  Copyright © 2020 Java Juice. All Rights Reserved. [Kyle Studio](http://kylestudio.7est.com) produced.
 >
->  由KyleStudio工作室维护管理 合作邮箱：kylestudio@hotmail.com.
+>  由[KyleStudio工作室](http://kylestudio.7est.com)维护管理 合作邮箱：kylestudio@hotmail.com.
 
