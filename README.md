@@ -15,6 +15,12 @@
 
 
 
+> 作者Kyle Nie  - - KyleStudio
+>
+> [Kyle Studio](http://kylestudio.7est.com)工作室是一家科技创新工作室。欢迎有意向的志同道合的朋友加入。官方网站：http://kylestudio.7est.com。合作邮箱: [kylestudio@hotmail.com](http://kylestudio-cn.7est.com/#)
+
+
+
 # Java知识的总结与梳理
 
 > 请点传送门阅读
