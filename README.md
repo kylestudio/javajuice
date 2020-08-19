@@ -17,7 +17,9 @@
 
 > 作者Kyle Nie  - - KyleStudio
 >
-> [Kyle Studio](http://kylestudio.7est.com)工作室是一家科技创新工作室。欢迎有意向的志同道合的朋友加入。官方网站：http://kylestudio.7est.com。合作邮箱: [kylestudio@hotmail.com](http://kylestudio-cn.7est.com/#)
+> [Kyle Studio](http://kylestudio.7est.com)工作室是一家科技创新工作室。欢迎有意向的志同道合的朋友加入。
+> 官方网站：[http://kylestudio.7est.com](http://kylestudio.7est.com)
+> 合作邮箱: kylestudio@hotmail.com
 
 
 
@@ -92,6 +94,11 @@
    - Java中锁的分类有那些？
    - 写一个死锁的列子并解决它？
    - 可重入锁和不可重入锁的设计？
+
+2. **[Synchronized关键字和CAS](./docs/4.3SynchronizedAndCAS.md)**
+   - 多线程的synchronized了解不？新版JDS有什么优化？
+   - 高性能的Compare and Swap了解不？
+   - CAS有什么问题？
 
 **未完待续。。**
 
