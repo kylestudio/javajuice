@@ -146,7 +146,7 @@
 
 - [Git](memo/Git.md)
 - [Linux](memo/Linux.md)
-- [Intellij Idea](memo/Intellij Idea.md)
+- [Intellij Idea](memo/Idea.md)
 - [MySQL](memo/MySQL.md)
 - [Docker](memo/Docker.md)
 
