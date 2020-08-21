@@ -7,11 +7,12 @@
 
 记录Java的点滴琐碎知识（不包括大学课本里面讲的那些基础），以及常人踩过的各种坑。适用人群：热爱编程，对Java有一定基础，想要拓展Java知识，或想要找工作/跳槽的程序员。
 
-本仓库目前分为**两个**部分：
+本仓库目前分为**四个**部分：
 
 - 第一部分是Java知识的总结与梳理
-- 第二部分是leetcode 经典题目的解析和具体的代码实现
-- 第三部分还在计划中，想总结一下常用的数据结构与算法
+- 第二部分是leetcode经典题目的解析和具体的代码实现
+- 第三部分总结一下常用的数据结构与算法
+- 第四部分是一些IT行业必须的基础知识
 
 
 
@@ -27,7 +28,7 @@
 
 > 请点传送门阅读
 
-## 第一章 基础概念基础篇（那些年踩进去的坑）
+## 第一章 基本概念基础篇（那些年踩进去的坑）
 
 *本篇适用于对Java有一些基础的程序员，着重介绍Java中的各种坑和进阶技巧。*
 
@@ -46,7 +47,7 @@
    - Overload和Override的区别是什么？
    - HashCode()？
 
-## 第二章 基础概念进阶篇
+## 第二章 基本概念进阶篇
 
 1. **[对List框架了解多少？](./docs/2.1List.md)**
    - 你知道ArrayList、LinkedList和Vector的区别嘛？
@@ -137,6 +138,17 @@
 - [DFS和BFS](src/main/java/algorithms/DFSAndBFSAlgorithm.java)
 
 **未完待续。。**
+
+
+
+
+# IT行业必须的基础知识
+
+- [Git](memo/Git.md)
+- [Linux](memo/Linux.md)
+- [Intellij Idea](memo/Intellij Idea.md)
+- [MySQL](memo/MySQL.md)
+- [Docker](memo/Docker.md)
 
 
 
