@@ -168,8 +168,8 @@
 - [Intellij Idea](memo/Idea.md)
 - [MySQL](memo/MySQL.md)
 - [Docker](memo/Docker.md)
-
-
+- [消息队列](memo/MessageQueue.md)
+- [消息队列面试考点](memo/MQInterview.md)
 
 # 感谢
 
