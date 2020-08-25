@@ -12,7 +12,7 @@
 - 第一部分是Java知识的总结与梳理
 - 第二部分是leetcode经典题目的解析和具体的代码实现
 - 第三部分总结一下常用的数据结构与算法
-- 第四部分是一些IT行业必须的基础知识
+- 第四部分是一些业内必知基础知识
 
 
 
@@ -97,7 +97,7 @@
    - 可重入锁和不可重入锁的设计？
 
 2. **[Synchronized关键字和CAS](./docs/4.3SynchronizedAndCAS.md)**
-   - 多线程的synchronized了解不？新版JDS有什么优化？
+   - 多线程的synchronized了解不？新版JDK有什么优化？
    - 高性能的Compare and Swap了解不？
    - CAS有什么问题？
 
@@ -107,6 +107,12 @@
    - AQS是什么？
    - AQS的核心逻辑？
    - AQS有几种同步方式？
+   
+2. **[ReentrantLock](./docs/5.2ReentrantLock.md)**
+   - ReentrantLock是什么？
+   - 看过ReentrantLock源码不？
+   - ReentrantLock和synchronized有什么区别？
+   - ReentrantReadWriteLock呢？
    
 **未完待续。。**
 
@@ -142,7 +148,7 @@
 
 
 
-# IT行业必须的基础知识
+# 业内必知基础知识
 
 - [Git](memo/Git.md)
 - [Linux](memo/Linux.md)
