@@ -121,6 +121,12 @@
    - 常见的阻塞队列有那些？
    - 非阻塞队列ConcurrentLinkedQueue呢？
    
+3. **[线程池](./docs/5.4ThreadPool.md)**
+   - 线程池有什么好处？
+   - Java里有哪些是常用的线程池？
+   - 为什么最好要用ThreadPoolExecutor的方式创建线程池？
+   - ThreadPoolExecutor参数？
+   
 **未完待续。。**
 
 
