@@ -1,4 +1,4 @@
-# 消息队列Message Queue
+# 消息队列Message Queue基础
 
 > 文章来自网络：https://www.jianshu.com/p/689ce4205021
 

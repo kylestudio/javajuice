@@ -166,10 +166,11 @@
 - [Git](memo/Git.md)
 - [Linux](memo/Linux.md)
 - [Intellij Idea](memo/Idea.md)
-- [MySQL](memo/MySQL.md)
+- [MySQL基础](memo/MySQL.md)
+- [MySQL进阶](memo/MySQLAdv.md)
 - [Docker](memo/Docker.md)
-- [消息队列](memo/MessageQueue.md)
-- [消息队列面试考点](memo/MQInterview.md)
+- [消息队列基础](memo/MQBasic.md)
+- [消息队列进阶](memo/MQAdv.md)
 
 # 感谢
 
