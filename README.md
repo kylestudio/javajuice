@@ -126,6 +126,14 @@
    - Java里有哪些是常用的线程池？
    - 为什么最好要用ThreadPoolExecutor的方式创建线程池？
    - ThreadPoolExecutor参数？
+
+
+## 第六章 Java8新特性基础篇
+
+1. **[接口和日期处理](./docs/6.1InterfaceAndDate.md)**
+   - Java中接口可以有方法的实现嘛？
+   - Java中最新的时间日期处理方法有哪些？
+   - 你了解Optional类嘛？
    
 **未完待续。。**
 
