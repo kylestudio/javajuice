@@ -127,7 +127,6 @@
    - 为什么最好要用ThreadPoolExecutor的方式创建线程池？
    - ThreadPoolExecutor参数？
 
-
 ## 第六章 Java8新特性基础篇
 
 1. **[接口和日期处理](./docs/6.1InterfaceAndDate.md)**
@@ -145,7 +144,8 @@
    - lambda表达式？
    - 常用的函数式编程接口有哪些？
    - 方法引用与构造函数引用？
-   
+
+
 **未完待续。。**
 
 
