@@ -139,6 +139,12 @@
    - 了解Matespace内存空间嘛？
    - 什么是try-with-resources？
 
+## 第七章 Java8新特性进阶篇
+
+1. **[函数式编程](./docs/7.1InterfaceCoding.md)**
+   - lambda表达式？
+   - 常用的函数式编程接口有哪些？
+   - 方法引用与构造函数引用？
    
 **未完待续。。**
 
