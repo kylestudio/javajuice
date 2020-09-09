@@ -154,6 +154,17 @@
    - 什么是Collectors？
    - Collectors里的常用函数有哪些？
    - 集合统计是什么？
+   
+## 第八章 Java9-11新特性
+
+1. **[JDK9新特性](./docs/8.1JDK9.md)**
+   - Jshell
+   - 接口私有方法
+   - try-with-resource增强
+   - 快速创建只读集合
+   - Stream新增API
+   
+
 
 **未完待续。。**
 
