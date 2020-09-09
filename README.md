@@ -12,10 +12,9 @@
 本仓库目前分为**四个**部分：
 
 - 第一部分是Java知识的总结与梳理
-- 第二部分是leetcode经典题目的解析和具体的代码实现
-- 第三部分总结一下常用的数据结构与算法
-- 第四部分是一些业内必知基础知识
-
+- 第二部分是一些业内必知基础知识
+- 第三部分是leetcode经典题目的解析和具体的代码实现
+- 第四部分总结一下常用的数据结构与算法
 
 
 > 作者Kyle Nie  - - KyleStudio
@@ -175,7 +174,16 @@
 
 **未完待续。。**
 
+# 业内必知基础知识
 
+- [Git](memo/Git.md)
+- [Linux](memo/Linux.md)
+- [Intellij Idea](memo/Idea.md)
+- [MySQL基础](memo/MySQL.md)
+- [MySQL进阶](memo/MySQLAdv.md)
+- [Docker](memo/Docker.md)
+- [消息队列基础](memo/MQBasic.md)
+- [消息队列进阶](memo/MQAdv.md)
 
 # Leetcode经典题目的解析和代码实现
 
@@ -207,16 +215,7 @@
 
 
 
-# 业内必知基础知识
 
-- [Git](memo/Git.md)
-- [Linux](memo/Linux.md)
-- [Intellij Idea](memo/Idea.md)
-- [MySQL基础](memo/MySQL.md)
-- [MySQL进阶](memo/MySQLAdv.md)
-- [Docker](memo/Docker.md)
-- [消息队列基础](memo/MQBasic.md)
-- [消息队列进阶](memo/MQAdv.md)
 
 # 感谢
 
