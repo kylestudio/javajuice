@@ -145,10 +145,15 @@
    - 常用的函数式编程接口有哪些？
    - 方法引用与构造函数引用？
 
-1. **[集合框架Stream](./docs/7.2Stream.md)**
+2. **[集合框架Stream](./docs/7.2Stream.md)**
    - 什么是Stream？
    - Stream里的常用函数有哪些？
    - 集合foreach怎么用？
+   
+3. **[收集器和集合统计](./docs/7.3Collectors.md)**
+   - 什么是Collectors？
+   - Collectors里的常用函数有哪些？
+   - 集合统计是什么？
 
 **未完待续。。**
 
