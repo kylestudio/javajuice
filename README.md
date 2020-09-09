@@ -155,7 +155,7 @@
    - Collectors里的常用函数有哪些？
    - 集合统计是什么？
    
-## 第八章 Java9-11新特性
+## 第八章 Java9-13新特性
 
 1. **[JDK9新特性](./docs/8.1JDK9.md)**
    - Jshell
@@ -164,7 +164,14 @@
    - 快速创建只读集合
    - Stream新增API
    
+2. **[JDK10-11新特性](./docs/8.2JDK11.md)**
+   - 局部推断变量var
+   - 新增HttpClient
+   - java和javac命令优化
 
+3. **[JDK13新特性](./docs/8.3JDK13.md)**
+   - 多行文本块
+   - 增强switch语句
 
 **未完待续。。**
 
