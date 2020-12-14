@@ -26,11 +26,11 @@ public class E21MergeTwoSortedLists {
             return l1;
         }
 
-        if (l1.getVal() <= l2.getVal()) {
-            l1.setNext(mergeTwoLists(l1.getNext(), l2));
+        if (l1.val <= l2.val) {
+            l1.next = (mergeTwoLists(l1.next, l2));
             return l1;
         } else {
-            l2.setNext(mergeTwoLists(l1, l2.getNext()));
+            l2.next = (mergeTwoLists(l1, l2.next));
             return l2;
         }
     }
@@ -39,17 +39,17 @@ public class E21MergeTwoSortedLists {
 
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1);
-        l1.setNext(new ListNode(2));
-        l1.getNext().setNext(new ListNode(5));
-        l1.getNext().getNext().setNext(new ListNode(7));
+        l1.next = (new ListNode(2));
+        l1.next.next = (new ListNode(5));
+        l1.next.next.next = (new ListNode(7));
 
         System.out.println(l1);
 
         ListNode l2 = new ListNode(1);
-        l2.setNext(new ListNode(3));
-        l2.getNext().setNext(new ListNode(4));
-        l2.getNext().getNext().setNext(new ListNode(6));
-        l2.getNext().getNext().getNext().setNext(new ListNode(8));
+        l2.next = (new ListNode(3));
+        l2.next.next = (new ListNode(4));
+        l2.next.next.next = (new ListNode(6));
+        l2.next.next.next.next = (new ListNode(8));
         System.out.println(l2);
 
         ListNode l3 = mergeTwoLists(l1, l2);
