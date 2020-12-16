@@ -11,6 +11,22 @@ public class ListNode {
   public ListNode() {
   }
 
+  public static ListNode of(int[] array) {
+    ListNode listNode = new ListNode();
+    ListNode dummy = listNode;
+    if (array.length == 0) {
+      return listNode;
+    } else {
+      listNode.val = array[0];
+    }
+    for (int i = 1; i < array.length; i++) {
+      dummy.next = new ListNode(array[i]);
+      dummy = dummy.next;
+    }
+
+    return listNode;
+  }
+
   public ListNode(int val) {
     this.val = val;
   }
