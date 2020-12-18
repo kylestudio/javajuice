@@ -15,7 +15,7 @@ public class ListNode {
     ListNode listNode = new ListNode();
     ListNode dummy = listNode;
     if (array.length == 0) {
-      return listNode;
+      return null;
     } else {
       listNode.val = array[0];
     }
@@ -36,21 +36,26 @@ public class ListNode {
     this.next = next;
   }
 
-  private String getPrettyPrint(ListNode l) {
-    if (l == null) {
-      return null;
+  public static String getPrettyPrint(ListNode l) {
+    String res = "[";
+    if (l != null) {
+      res = res.concat(l.val + "");
+      while (l.next != null) {
+        l = l.next;
+        res = res.concat(", " + l.val);
+      }
     }
-
-    String re = l.val + "";
-    while (l.next != null) {
-      l = l.next;
-      re = re.concat(" -> " + l.val);
-    }
-    return re;
+    return res + "]";
   }
 
   @Override
   public String toString() {
     return getPrettyPrint(this);
+  }
+
+  public static void main(String[] args) {
+    ListNode listNode = ListNode.of(new int[]{});
+    System.out.println(ListNode.getPrettyPrint(listNode));
+    System.out.println(listNode.toString());
   }
 }
