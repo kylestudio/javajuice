@@ -96,8 +96,8 @@ public class Assessment2 {
 
   public static void main(String[] args) {
     Assessment2 test = new Assessment2();
-//    System.out.println(test.solution2(200));
-//    System.out.println(test.solution(200));
+    System.out.println(test.solution2(200));
+    System.out.println(test.solution(200));
 //    System.out.println(test.getMiddle("abcd"));
 //    System.out.println(test.getMiddle("abc"));
 //    System.out.println(3 / 2);
