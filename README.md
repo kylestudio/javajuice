@@ -184,33 +184,49 @@
 - [Docker](memo/Docker.md)
 - [消息队列基础](memo/MQBasic.md)
 - [消息队列进阶](memo/MQAdv.md)
+- [JVM基础介绍](docs/JVMBasic.md)
+- [JVM GC](docs/JVMGC.md)
 
 # Leetcode经典题目的解析和代码实现
 
 > 建议先去看题目，自己思考一下，再参考答案。
 
-
 #### 简单难度
 
-- [0001.two-sum](src/main/java/leetcode/E1TwoSums.java)
-- [0020.Valid Parentheses](src/main/java/leetcode/E20ValidParentheses.java)
-- [0021.MergeTwoSortedLists](src/main/java/leetcode/E21MergeTwoSortedLists.java)
-- [0026.remove-duplicates-from-sorted-array](src/main/java/leetcode/E26RemoveDuplicatesFromSortedArray.java)
-- [0053.maximum-sum-subarray](src/main/java/leetcode/E53MaximumSubarray.java)
-- [0088.merge-sorted-array](src/main/java/leetcode/E88MergeSortedArray.java)
-- [0101.symmetric-tree](src/main/java/leetcode/E101SymmetricTree.java)
-- [0104.maximum-depth-of-binary-tree](src/main/java/leetcode/E104MaximumDepthOfBinaryTree.java)
-- [0108.convert-sorted-array-to-binary-search-tree](src/main/java/leetcode/E108ConvertSortedArrayToBinarySearchTree.java)
+- [E1TwoSums](src/main/java/leetcode/E1TwoSums.java)
+- [E20ValidParentheses](src/main/java/leetcode/E20ValidParentheses.java)
+- [E21MergeTwoSortedLists](src/main/java/leetcode/E21MergeTwoSortedLists.java)
+- [E26RemoveDuplicatesFromSortedArray](src/main/java/leetcode/E26RemoveDuplicatesFromSortedArray.java)
+- [E53MaximumSubarray](src/main/java/leetcode/E53MaximumSubarray.java)
+- [E88MergeSortedArray](src/main/java/leetcode/E88MergeSortedArray.java)
+- [E101SymmetricTree](src/main/java/leetcode/E101SymmetricTree.java)
+- [E104MaximumDepthOfBinaryTree](src/main/java/leetcode/E104MaximumDepthOfBinaryTree.java)
+- [E108ConvertSortedArrayToBinarySearchTree](src/main/java/leetcode/E108ConvertSortedArrayToBinarySearchTree.java)
+
+#### 中等难度
+
+- [M2AddTwoNumbers](src/main/java/leetcode/M2AddTwoNumbers.java)
+- [M3LongestSubstringWithoutRepeatingCharacters](src/main/java/leetcode/M3LongestSubstringWithoutRepeatingCharacters.java)
+- [M5LongestPalindromicSubstring](src/main/java/leetcode/M5LongestPalindromicSubstring.java)
+- [M11ContainerWithMostWater](src/main/java/leetcode/M11ContainerWithMostWater.java)
+- [M15ThreeSum](src/main/java/leetcode/M15ThreeSum.java)
+- [M17LetterCombinationsOfAPhoneNumber](src/main/java/leetcode/M17LetterCombinationsOfAPhoneNumber.java)
+- [M19RemoveNthNodeFromEndOfList](src/main/java/leetcode/M19RemoveNthNodeFromEndOfList.java)
+- [M22GenerateParentheses](src/main/java/leetcode/M22GenerateParentheses.java)
+- [M24SwapNodesInPairs](src/main/java/leetcode/M24SwapNodesInPairs.java)
+- [M33SearchInRotatedSortedArray](src/main/java/leetcode/M33SearchInRotatedSortedArray.java)
+- [M39CombinationSum](src/main/java/leetcode/M39CombinationSum.java)
+- [M46Permutations](src/main/java/leetcode/M46Permutations.java)
+- [M1658MinimumOperationsToReduceXToZero](src/main/java/leetcode/M1658MinimumOperationsToReduceXToZero.java)
+- [M1658MinimumOperationsToReduceXToZero2](src/main/java/leetcode/M1658MinimumOperationsToReduceXToZero2.java)
 
 **未完待续。。**
-
-
 
 # 常用的数据结构与算法
 
 - [DFS和BFS](src/main/java/algorithms/DFSAndBFSAlgorithm.java)
 
-**未完待续。。**
+**[未完待续](ulSampleListForInterview.md)。。**
 
 
 
